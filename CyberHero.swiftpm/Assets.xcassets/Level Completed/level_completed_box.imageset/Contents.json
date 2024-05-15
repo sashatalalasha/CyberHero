@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "level_completed_box.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

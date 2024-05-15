@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "email_subject.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

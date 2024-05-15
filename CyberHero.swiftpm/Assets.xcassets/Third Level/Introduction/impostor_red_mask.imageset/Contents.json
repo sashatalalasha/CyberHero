@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "impersonator_red_mask.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
